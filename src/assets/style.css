@@ -1,0 +1,42 @@
+
+.btn-primary{
+    background-color:#ffc15e;
+    min-height: 50px;
+    border-radius: 25px;
+    padding-left: 24px;
+    padding-right:24px;
+    font-weight: 700;
+    border: 0px;
+    letter-spacing: 0.01em;
+    
+}
+.btn-primary:hover{
+    background-color: #34314f;
+}
+.container-fluid{
+    max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;    
+}
+#footer-img{
+    max-width: 100%;
+    margin-bottom: 0;
+}
+
+form{
+    padding-top: 64px;
+    max-width:50%;
+    min-height: 200px;
+}
+form input{
+    margin: 16px;
+}
+.page-footer{
+    margin-top: 24px;
+}
+
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
